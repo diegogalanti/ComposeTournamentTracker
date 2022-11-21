@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ComposeTournamentTracker</string>
+    <string name="group_name">"Group %s"</string>
+    <string name="expand_string">Expand</string>
+</resources>
